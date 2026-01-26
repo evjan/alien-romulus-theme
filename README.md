@@ -1,6 +1,6 @@
-# Alien: Romulus Theme
+# Alien: Romulus Themes
 
-An Emacs theme inspired by the terminals in Alien: Romulus
+Themes for Emacs and iTerm2 inspired by the terminals in Alien: Romulus
 
 Screenshot:
 <img alt="terminal screenshot" src="https://github.com/user-attachments/assets/1cf83080-4322-4a67-8571-f618e95c0aa0" />
