@@ -119,17 +119,17 @@
 		<real>0.35294117647058826</real>
 	</dict>
 
-	<!-- ANSI 2 Green: cyan-main #3dd4b0 -->
+	<!-- ANSI 2 Green: moss-green #4a7a5a -->
 	<key>Ansi 2 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Red Component</key>
-		<real>0.23921568627450981</real>
+		<real>0.29019607843137257</real>
 		<key>Green Component</key>
-		<real>0.83137254901960789</real>
+		<real>0.47843137254901963</real>
 		<key>Blue Component</key>
-		<real>0.69019607843137254</real>
+		<real>0.35294117647058826</real>
 	</dict>
 
 	<!-- ANSI 3 Yellow: yellow #d4b847 -->
@@ -223,17 +223,17 @@
 		<real>0.35294117647058826</real>
 	</dict>
 
-	<!-- ANSI 10 Bright Green: cyan-bright #4affd0 -->
+	<!-- ANSI 10 Bright Green: phosphor-green #8fd48f -->
 	<key>Ansi 10 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Red Component</key>
-		<real>0.29019607843137257</real>
+		<real>0.5607843137254902</real>
 		<key>Green Component</key>
-		<real>1.0</real>
+		<real>0.83137254901960789</real>
 		<key>Blue Component</key>
-		<real>0.81568627450980391</real>
+		<real>0.5607843137254902</real>
 	</dict>
 
 	<!-- ANSI 11 Bright Yellow: amber #ffb366 -->
